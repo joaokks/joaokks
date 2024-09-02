@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, me chamo João Vitor Guedes.
+  - Tenho 19 anos 
+  - Curso Técnico em Eletrônica 
+  Instituto Federal de Alagoas (IFAL) - [Maceió] (CURSANDO)
+  - Curso Técnico em Informática para Web - (Senai) (CURSANDO)
+# 
 
-<!--
-**joaokks/joaokks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conhecimentos 
+ - Git e GitHub 
+ - Hardware e Software de Aparelhos eletrônicos 
+# 
+Redes Sociais 
+ <a href="https://instagram.com/_joaovguedes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+# 
+![gon](https://github.com/user-attachments/assets/9e1de2f9-1c8d-4e38-95f1-3edc33910ed5)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
